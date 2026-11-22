@@ -1,8 +1,7 @@
 # ITTR Invoice Labels updates
 
-Official Windows downloads by Serhii Udod. Copyright Serhii Udod. All rights reserved.
+Official signed Windows downloads. Developer: Serhii Udod. Copyright Serhii Udod. All rights reserved.
 
-Download the latest Windows ZIP from Releases. An existing valid computer license is required.
-For future updates, click **Update app** in Invoice Labels. The app verifies the publisher signature, backs up your data, installs and restarts without GitHub sign-in.
+Get the latest Windows ZIP from Releases, or click Update app in an existing installation. Publisher-signature verification, automatic backups and saved-data preservation remain enabled. No first-launch activation key is required.
 
-This repository distributes compiled releases only. Source, private keys, account credentials and invoice data are not published here.
+Only compiled releases are public here. Source code, signing keys, credentials and invoice data are not published in this repository.
